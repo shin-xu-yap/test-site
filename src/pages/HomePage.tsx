@@ -269,10 +269,10 @@ const HomePage: React.FC = () => {
             </div>
             {/*Navigation bar*/}
             <div className="fixed bottom-0 box-border h-20 w-full p-4 bg-[#FFFFFF]">
-                <div className='flex items-center justify-between px-16'>
-                    <IoMdHome size={35} color='gray'/>
-                    <div className='px-28'>
-                        <MdExplore size={35} color='gray'/>
+                <div className='flex items-center justify-between'>
+                    <IoMdHome size={25} color='gray'/>
+                    <div className='pr-5'>
+                        <MdExplore size={25} color='gray'/>
                     </div>
                     <div className='absolute -translate-x-1/2 -translate-y-1/2 left-1/2'>
                     <div className='h-16 w-16 rounded-full bg-[#574DEA]'>
@@ -281,10 +281,10 @@ const HomePage: React.FC = () => {
                         </div>
                     </div>
                 </div>
-                <div className='px-28'>
-                    <MdNotifications size={35} color='gray'/>
+                <div className='pl-5'>
+                    <MdNotifications size={25} color='gray'/>
                 </div>
-                <FaUser size={30} color='gray'/>
+                <FaUser size={25} color='gray'/>
             </div>
         </div>
     </div>
