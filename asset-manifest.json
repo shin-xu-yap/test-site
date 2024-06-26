@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.557104c9.css",
-    "main.js": "/static/js/main.2a7eddf2.js",
-    "static/js/453.34be3eca.chunk.js": "/static/js/453.34be3eca.chunk.js",
-    "static/media/langkawi.jpg": "/static/media/langkawi.0d7867c01255625817a8.jpg",
-    "static/media/malacca.jpg": "/static/media/malacca.3a3f1ac5254a14945f54.jpg",
-    "static/media/ipoh.jpg": "/static/media/ipoh.28d3c5abab12132f9372.jpg",
-    "static/media/kualaLumpur.jpg": "/static/media/kualaLumpur.e566daa71831dad123ec.jpg",
-    "static/media/kotaKinabalu.jpg": "/static/media/kotaKinabalu.f0f0d19dbbff9aa8e698.jpg",
-    "static/media/heritageMusuem.jpg": "/static/media/heritageMusuem.0699a88311fb4ab00c04.jpg",
-    "static/media/subangJaya.jpg": "/static/media/subangJaya.57bdef30e1fa48ef70dd.jpg",
-    "static/media/georgeTown.jpg": "/static/media/georgeTown.cab5ca7f8fcd77a234fa.jpg",
-    "static/media/mossyForest.jpg": "/static/media/mossyForest.8ef2a642c155597d04ad.jpg",
-    "index.html": "/index.html",
-    "main.557104c9.css.map": "/static/css/main.557104c9.css.map",
-    "main.2a7eddf2.js.map": "/static/js/main.2a7eddf2.js.map",
-    "453.34be3eca.chunk.js.map": "/static/js/453.34be3eca.chunk.js.map"
+    "main.css": "/test-site/static/css/main.557104c9.css",
+    "main.js": "/test-site/static/js/main.6864e570.js",
+    "static/js/453.34be3eca.chunk.js": "/test-site/static/js/453.34be3eca.chunk.js",
+    "static/media/langkawi.jpg": "/test-site/static/media/langkawi.0d7867c01255625817a8.jpg",
+    "static/media/malacca.jpg": "/test-site/static/media/malacca.3a3f1ac5254a14945f54.jpg",
+    "static/media/ipoh.jpg": "/test-site/static/media/ipoh.28d3c5abab12132f9372.jpg",
+    "static/media/kualaLumpur.jpg": "/test-site/static/media/kualaLumpur.e566daa71831dad123ec.jpg",
+    "static/media/kotaKinabalu.jpg": "/test-site/static/media/kotaKinabalu.f0f0d19dbbff9aa8e698.jpg",
+    "static/media/heritageMusuem.jpg": "/test-site/static/media/heritageMusuem.0699a88311fb4ab00c04.jpg",
+    "static/media/subangJaya.jpg": "/test-site/static/media/subangJaya.57bdef30e1fa48ef70dd.jpg",
+    "static/media/georgeTown.jpg": "/test-site/static/media/georgeTown.cab5ca7f8fcd77a234fa.jpg",
+    "static/media/mossyForest.jpg": "/test-site/static/media/mossyForest.8ef2a642c155597d04ad.jpg",
+    "index.html": "/test-site/index.html",
+    "main.557104c9.css.map": "/test-site/static/css/main.557104c9.css.map",
+    "main.6864e570.js.map": "/test-site/static/js/main.6864e570.js.map",
+    "453.34be3eca.chunk.js.map": "/test-site/static/js/453.34be3eca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.557104c9.css",
-    "static/js/main.2a7eddf2.js"
+    "static/js/main.6864e570.js"
   ]
 }
