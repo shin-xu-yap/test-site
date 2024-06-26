@@ -1,4 +1,4 @@
-import React from "react";
+import React, {Component} from "react";
 import {
     HashRouter as Router,
     Routes,
@@ -7,7 +7,8 @@ import {
 
 import HomePage from "./pages/HomePage"
 
-function App() {
+class App extends Component {
+    render(){
     return (
         <Router basename="/">
             <Routes>
@@ -15,6 +16,7 @@ function App() {
             </Routes>
         </Router>
     );
+    }
 }
 
 export default App;
