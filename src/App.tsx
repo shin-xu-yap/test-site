@@ -6,6 +6,7 @@ import {
 } from "react-router-dom";
 
 import HomePage from "./pages/HomePage"
+import CityPage from "./pages/CityPage"
 
 class App extends Component {
     render(){
@@ -13,6 +14,7 @@ class App extends Component {
         <Router>
             <Routes>
                 <Route path="/home" element={<HomePage/>}/>
+                <Route path="/city" element={<CityPage/>}/>
             </Routes>
         </Router>
     );
