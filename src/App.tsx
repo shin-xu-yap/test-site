@@ -7,6 +7,7 @@ import {
 
 import HomePage from "./pages/HomePage"
 import CityPage from "./pages/CityPage"
+import HistoricalRoutePage from "./pages/HistoricalRoute"
 
 class App extends Component {
     render(){
@@ -15,6 +16,7 @@ class App extends Component {
             <Routes>
                 <Route path="/home" element={<HomePage/>}/>
                 <Route path="/city" element={<CityPage/>}/>
+                <Route path="/historical" element={<HistoricalRoutePage/>}/>
             </Routes>
         </Router>
     );
