@@ -1,6 +1,6 @@
 import React from "react";
 import { RiPinDistanceLine } from "react-icons/ri";
-import { MdArrowBackIosNew, MdOutlineFavoriteBorder, MdOutlineShowChart } from "react-icons/md";
+import { MdArrowBackIosNew, MdOutlineShowChart } from "react-icons/md";
 import { MdOutlineAccessTime } from "react-icons/md";
 import { MdOutlineWatch } from "react-icons/md";
 
